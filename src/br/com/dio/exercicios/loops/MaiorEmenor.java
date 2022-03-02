@@ -6,7 +6,7 @@ public class MaiorEmenor {
 	public static void main(String[] args) {
 
 		Scanner scan = new Scanner(System.in);
-
+        
 		int numero;
 		int numeromaior = 0;
 		double media = 0;
